@@ -1,3 +1,4 @@
+#Solution to task https://cses.fi/problemset/task/1068
 def weirdNum(num):
   print(num)
   if num == 1:
