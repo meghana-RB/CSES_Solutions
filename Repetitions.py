@@ -1,3 +1,4 @@
+#Solution to https://cses.fi/problemset/task/1069
 inputStr = input()
 firstPointer = 0
 endPointer = 0
