@@ -1,3 +1,4 @@
+#Solution to task https://cses.fi/problemset/task/1094
 length = int(input())
 inputArray = [int(x) for x in (input()).split()]
 sum = 0
