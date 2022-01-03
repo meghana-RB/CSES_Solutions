@@ -1,3 +1,4 @@
+#Solution to task https://cses.fi/problemset/task/1070/
 n = int(input())
 
 if n == 3 or n==2:
